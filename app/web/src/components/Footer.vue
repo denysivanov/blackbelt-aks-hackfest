@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Masha Ivanova My Heart 123
+        Masha Ivanova My Heart 123 Samaya Luchshaya
       </div>
       <div class="col-lg-6">
       </div>
